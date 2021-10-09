@@ -1,9 +1,9 @@
 [submodule "web-lab-2"]
-	path = web-lab-2
-	url = git@github.com:GulDilin/web-lab-2.git
+	path = web-programming-lab-JSP
+	url = git@github.com:GulDilin/web-programming-lab-JSP.git
 [submodule "lab-three"]
-	path = lab-three
-	url = git@github.com:GulDilin/lab-three.git
+	path = web-programming-lab-JSF
+	url = git@github.com:GulDilin/web-programming-lab-JSF.git
 [submodule "spring-lab"]
-	path = spring-lab
-	url = git@github.com:GulDilin/spring-lab.git
+	path = web-programming-lab-Spring
+	url = git@github.com:GulDilin/web-programming-lab-Spring.git
